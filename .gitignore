@@ -1,0 +1,11 @@
+# OS / editor artefacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Secrets — never commit these
+.env
+*.pem
+*.key
